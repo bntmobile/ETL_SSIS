@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Load_TrasnsBNMX", "Load_TrasnsBNMX\Load_TrasnsBNMX.dtproj", "{7E1FC8BE-64FA-41F8-AB06-C8EA8A735F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1FC8BE-64FA-41F8-AB06-C8EA8A735F5B}.Development|Default.ActiveCfg = Development
+		{7E1FC8BE-64FA-41F8-AB06-C8EA8A735F5B}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
