@@ -24,6 +24,7 @@ SELECT id_banco,id_chequera,desc_chequera FROM [sethdzqa]..[cat_cta_banco] WHERE
 
 
 
+
  /*
  BUSQUEDA DE BENEFICIARIO
  */
